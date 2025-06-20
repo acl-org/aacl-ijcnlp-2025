@@ -9,315 +9,382 @@ sidebar:
 
 <h2>General Chair</h2>
 {% include committee-member.html
-   name="Dirk Hovy"
-   institution="Bocconi University"
-   email="dirk.hovy@unibocconi.it"
+   name="Kentaro Inui"
+   institution="Mohamed bin Zayed University of Artificial Intelligence"
+   email="kentaro.inui@mbzuai.ac.ae"
    role="General Chair"
-   site="https://dirkhovy.com"
-   picture="/assets/images/committee/Dirk-Hovy.jpg"
+   site="https://mbzuai.ac.ae/study/faculty/kentaro-inui/"
+   picture="/assets/images/committee/Kentaro-Inui.jpg"
 %}
 
 <h2>Program Chairs</h2>
 {% include committee-member.html
-   name="Christos Christodoulopoulos"
-   institution="Amazon / Information Commissioner's Office"
-   email="christos.c2009@gmail.com"
+   name="Sakriani Sakti"
+   institution="Nara Institute of Science and Technology"
+   email="ssakti@is.naist.jp"
    role="Program Chairs"
-   site="https://christos-c.com"
-   picture="/assets/images/committee/Christos-Christodoulopoulos.jpg"
+   site="https://hai-lab.naist.jp/profile/ssakti/index.html"
+   picture="/assets/images/committee/Sakriani-Sakti.jpg"
+%}
+{% include committee-member.html
+   name="Haofen Wang"
+   institution="Tongji University"
+   email="haofen.wang@tongji.edu.cn"
+   role="Program Chairs"
+   site="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4991&lang=_en"
+   picture="/assets/images/committee/Haofen-Wang.jpg"
+%}
+{% include committee-member.html
+   name="Derek F. Wong"
+   institution="University of Macau"
+   email="derekfw@um.edu.mo"
+   role="Program Chairs"
+   site="https://www.fst.um.edu.mo/personal/derek-wong/"
+   picture="/assets/images/committee/Derek-F-Wong.jpg"
+%}
+
+<h2>Local Organizing Chairs</h2>
+{% include committee-member.html
+   name="Pushpak Bhattacharya"
+   institution="IIT Bombay"
+   email="pb@cse.iitb.ac.in"
+   role="Local Organizing Chairs"
+   site="https://www.cse.iitb.ac.in/~pb/"
+   picture="/assets/images/committee/Pushpak-Bhattacharya.jpg"
+%}
+{% include committee-member.html
+   name="Asif Ekbal"
+   institution="IIT Jodhpur"
+   email="asif.ekbal@gmail.com"
+   role="Local Organizing Chairs"
+   site="https://ekbalasif.github.io/"
+   picture="/assets/images/committee/Asif-Ekbal.jpg"
 %}
 {% include committee-member.html
    name="Tanmoy Chakraborty"
-   institution="Indian Institute of Technology Delhi"
+   institution="IIT Delhi"
    email="chak.tanmoy.iit@gmail.com"
-   role="Program Chairs"
+   role="Local Organizing Chairs"
    site="https://tanmoychak.com/"
    picture="/assets/images/committee/Tanmoy-Chakraborty.jpg"
 %}
 {% include committee-member.html
-   name="Carolyn Rose"
-   institution="Carnegie Mellon University (CMU)"
-   email="cp3a@andrew.cmu.edu"
-   role="Program Chairs"
-   site="https://www.lti.cs.cmu.edu"
-   picture="/assets/images/committee/Carolyn-Rose.jpg"
-%}
-{% include committee-member.html
-   name="Violet Peng"
-   institution="University of California, Los Angeles (UCLA)"
-   email="violetpeng@cs.ucla.edu"
-   role="Program Chairs"
-   site="https://violetpeng.github.io/"
-   picture="/assets/images/committee/Violet-Peng.jpg"
-%}
-
-<h2>Industry Track Chairs</h2>
-{% include committee-member.html
-   name="Saloni Potdar"
-   institution="Apple Inc."
-   email="saloni.potdar@gmail.com"
-   role="Industry Track Chairs"
-   site="https://salonipotdar.github.io"
-   picture="/assets/images/committee/Saloni-Potdar.jpg"
-%}
-{% include committee-member.html
-   name="Lina Rojas-Barahona"
-   institution="Orange Labs"
-   email="lina.rojas@orange.com"
-   role="Industry Track Chairs"
-   site="https://openreview.net/profile?id=~Lina_M._Rojas-Barahona1"
-   picture="/assets/images/committee/Lina-Rojas.jpg"
-%}
-{% include committee-member.html
-   name="Sebastien Montella"
-   institution="Huawei"
-   email="montellasebastien@gmail.com"
-   role="Industry Track Chairs"
-   site="https://montellasebastien.github.io"
-   picture="/assets/images/committee/Sebastien-Montella.jpg"
+   name="Dhirendra Pratap Singh"
+   institution="IIT Bombay"
+   email="dhirendra.singh@iitb.ac.in"
+   role="Local Organizing Chairs"
+   picture="/assets/images/committee/Dhirendra-Pratap-Singh.jpg"
 %}
 
 
 <h2>Workshop Chairs</h2>
 {% include committee-member.html
-   name="Sunipa Dev"
-   institution="Google Research"
-   email="sunipadev@google.com"
+   name="Lizhen Qu"
+   institution="Monash University"
+   email="lizhen.qu@monash.edu"
    role="Workshop Chairs"
-   site="https://sunipa.github.io"
-   picture="/assets/images/committee/Sunipa-Dev.jpg"
+   site="https://research.monash.edu/en/persons/lizhen-qu"
+   picture="/assets/images/committee/Lizhen-Qu.jpg"
 %}
 {% include committee-member.html
-   name="Maja Popović"
-   institution="Dublin City University  & IU University, Berlin"
-   email="maja.popovic.166@gmail.com"
+   name="Sowmya Vajjala"
+   institution="National Research Council Canada"
+   email="sowmya.vajjala@nrc-cnrc.gc.ca"
    role="Workshop Chairs"
-   site="https://www.adaptcentre.ie/experts/maja-popovic"
-   picture="/assets/images/committee/Maja-Popovic.jpg"
-%}
-{% include committee-member.html
-   name="Eleftherios Avramidis"
-   institution="DFKI, Berlin"
-   email="eleftherios.avramidis@dfki.de"
-   role="Workshop Chairs"
-   site="https://ki-campus.org/node/552"
-   picture="/assets/images/committee/Eleftherios-Avramidis.jpg"
+   site="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/sowmya-vajjala"
+   picture="/assets/images/committee/Sowmya-Vajjala.jpg"
 %}
 
 <h2>Tutorial Chairs</h2>
 {% include committee-member.html
-   name="Valentina Pyatkin"
-   institution="Allen Institute for AI; University of Washington"
-   email="valentinap@allenai.org"
+   name="Benjamin Heinzerling"
+   institution="RIKEN / Tohoku University"
+   email="benjamin.heinzerling@riken.jp"
    role="Tutorial Chairs"
-   site="https://valentinapy.github.io"
-   picture="/assets/images/committee/Valentina-Pyatkin.jpg"
+   site="https://bheinzerling.github.io/"
+   picture="/assets/images/committee/Benjamin-Heinzerling.jpg"
 %}
 {% include committee-member.html
-   name="Andreas Vlachos"
-   institution="University of Cambridge"
-   email="av308@cam.ac.uk"
+   name="Lun-Wei Ku"
+   institution="Academia Sinica"
+   email="lwku@iis.sinica.edu.tw"
    role="Tutorial Chairs"
-   site="https://andreasvlachos.github.io/"
-   picture="/assets/images/committee/Andreas-Vlachos.jpg"
-%}
-
-<h2>Ethics Chairs</h2>
-{% include committee-member.html
-   name="Shashank Srivastava"
-   institution="University of North Carolina at Chapel Hill"
-   email="ssrivastava@cs.unc.edu"
-   role="Ethics Chairs"
-   site="https://www.ssriva.com"
-   picture="/assets/images/committee/Shashank-Srivastava.jpg"
-%}
-{% include committee-member.html
-   name="Anil Ramakrishna"
-   institution="Amazon"
-   email="aniramak@amazon.com"
-   role="Ethics Chairs"
-   site="https://anilkramakrishna.github.io/"
-   picture="/assets/images/committee/Anil-Ramakrishna.jpg"
-%}
-
-<h2>Internal Communications Chairs</h2>
-{% include committee-member.html
-   name="Juntao Li"
-   institution="Soochow University"
-   email="ljt@suda.edu.cn"
-   role="Internal Communications Chairs"
-   site="https://lijuntaopku.github.io/"
-   picture="/assets/images/committee/Juntao-Li.jpg"
-%}
-{% include committee-member.html
-   name="Steve Wilson"
-   institution="University of Michigan-Flint"
-   email="steverw@umich.edu"
-   role="Internal Communications Chairs"
-   site="https://steverw.com"
-   picture="/assets/images/committee/Steven-Wilson.jpg"
+   site="https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html"
+   picture="/assets/images/committee/Lun-Wei-Ku.jpg"
 %}
 
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
-   name="Ivan Habernal"
-   institution="RC Trust; Ruhr University Bochum"
-   email="ivan.habernal@ruhr-uni-bochum.de"
+   name="Ayu Purwarianti"
+   institution="Bandung Institute of Technology"
+   email="ayu@informatika.org"
    role="Demo Chairs"
-   site="https://www.trusthlt.org"
-   picture="/assets/images/committee/Ivan-Habernal.jpg"
+   site="https://itb.ac.id/staf/profil/ayu-purwarianti"
+   picture="/assets/images/committee/Ayu-Purwarianti.jpg"
 %}
 {% include committee-member.html
-   name="Jörg Tiedemann"
-   institution="University of Helsinki"
-   email="jorg.tiedemann@helsinki.fi"
+   name="Xuebo Liu"
+   institution="Harbin Institute of Technology, Shenzhen"
+   email="liuxuebo@hit.edu.cn"
    role="Demo Chairs"
-   site="https://blogs.helsinki.fi/language-technology/"
-   picture="/assets/images/committee/Jorg-Tiedemann.jpg"
+   site="https://sunbowliu.github.io/"
+   picture="/assets/images/committee/Xuebo-Liu.jpg"
+%}
+
+<h2>Ethics Chairs</h2>
+{% include committee-member.html
+   name="Rifki Afina Putri"
+   institution="Universitas Gadjah Mada"
+   email="rifki.putri@ugm.ac.id"
+   role="Ethics Chairs"
+   site="https://rifkiaputri.github.io/"
+   picture="/assets/images/committee/Rifki-Afina-Putri.jpg"
 %}
 {% include committee-member.html
-   name="Peter Schulam"
-   institution="Amazon AGI"
-   email="schulamp@amazon.com"
-   role="Demo Chairs"
-   site="https://pschulam.github.io/"
-   picture="/assets/images/committee/Peter-Schulam.jpg"
+   name="Yan Teng"
+   institution="Shanghai Artificial Intelligence Laboratory"
+   email="tengyan@pjlab.org.cn"
+   role="Ethics Chairs"
+   site="https://openreview.net/profile?id=%7EYan_Teng1"
+   picture="/assets/images/committee/Yan-Teng.jpg"
+%}
+
+<h2>Best Paper Award Chairs</h2>
+{% include committee-member.html
+   name="Yufang Hou"
+   institution="IT:U Interdisciplinary Transformation University Austria (Austria)"
+   email="yufang.hou@it-u.at"
+   role="Best Paper Award Chairs"
+   site="https://yufanghou.github.io/"
+   picture="/assets/images/committee/Yufang-Hou.jpg"
+%}
+{% include committee-member.html
+   name="Zhongyu Wei"
+   institution="Fudan University"
+   email="zywei@fudan.edu.cn"
+   role="Best Paper Award Chairs"
+   site="https://www.fudan-disc.com/people/zywei"
+   picture="/assets/images/committee/Zhongyu-Wei.jpg"
 %}
 
 
 <h2>Publication Chairs</h2>
 {% include committee-member.html
-   name="Shivashankar Subramanian"
-   institution="Amazon"
-   email="shivashankarrs@gmail.com"
+   name="Adila Alfa Krisnadhi"
+   institution="University of Indonesia"
+   email="adila@cs.ui.ac.id"
    role="Publication Chairs"
-   picture="/assets/images/committee/Shivashankar-Subramanian.jpg"
+   site="https://cs.ui.ac.id/personnel/adila-alfa-krisnadhi/"
+   picture="/assets/images/committee/Adila-Alfa-Krisnadhi.jpg"
 %}
 {% include committee-member.html
-   name="Hyunsoo Cho"
-   institution="Ewha Womans University"
-   email="chohyunsoo@ewha.ac.kr"
+   name="Amelia Jing Li"
+   institution="Hong Kong Polytechnic University"
+   email="jing-amelia.li@polyu.edu.hk"
    role="Publication Chairs"
-   site="https://hyunsoocho77.github.io"
-   picture="/assets/images/committee/Hyunsoo-Cho.jpg"
+   site="https://www4.comp.polyu.edu.hk/~jing1li/"
+   picture="/assets/images/committee/Amelia-Jing-Li.jpg"
 %}
 {% include committee-member.html
-   name="Mark Hopkins"
-   institution="Williams College"
-   email="mh24@williams.edu"
+   name="Qin Chen"
+   institution="East China Normal University"
+   email="qchen@cs.ecnu.edu.cn"
    role="Publication Chairs"
-   site="https://markandrewhopkins.com"
-   picture="/assets/images/committee/Mark-Hopkins.jpg"
-%}
-
-<h2>Best Publication Chairs</h2>
-{% include committee-member.html
-   name="Mirella Lapata"
-   institution="University of Edinburgh"
-   email="mlap@inf.ed.ac.uk"
-   role="Best Publication Chairs"
-   site="https://homepages.inf.ed.ac.uk/mlap/"
-   picture="/assets/images/committee/Mirella-Lapata.jpg"
+   site="https://faculty.ecnu.edu.cn/_s16/cq2_21262/main.psp"
+   picture="/assets/images/committee/Qin-Chen.jpg"
 %}
 
 <h2>Handbook Chairs</h2>
 {% include committee-member.html
-   name="Lucia Siciliani"
-   institution="University of Bari Aldo Moro"
-   email="lucia.siciliani@uniba.it"
+   name="Jixing Li"
+   institution="City University of Hong Kong"
+   email="jixingli@cityu.edu.hk"
    role="Handbook Chairs"
-   picture="/assets/images/committee/Lucia-Siciliani.jpg"
+   site="https://scholars.cityu.edu.hk/en/persons/jixingli"
+   picture="/assets/images/committee/Jixing-Li.jpg"
+%}
+{% include committee-member.html
+   name="Yang Deng"
+   institution="Singapore Management University"
+   email="ydeng@smu.edu.sg"
+   role="Handbook Chairs"
+   site="https://dengyang17.github.io/"
+   picture="/assets/images/committee/Yang-Deng.jpg"
+%}
+
+
+<h2>Finance Chairs</h2>
+{% include committee-member.html
+   name="Biplab Banerjee"
+   institution="IIT Bombay"
+   email="bbanerjee@iitb.ac.in"
+   role="Finance Chairs"
+   site="https://biplab-banerjee.github.io/"
+   picture="/assets/images/committee/Biplab-Banerjee.jpg"
+%}
+{% include committee-member.html
+   name="Dipti Misra Sharma"
+   institution="IIIT Hyderabad"
+   email="dipti@iiit.ac.in"
+   role="Finance Chairs"
+   site="https://www.iiit.ac.in/faculty/dipti-m-sharma/"
+   picture="/assets/images/committee/Dipti–Misra-Sharma.jpg"
+%}
+{% include committee-member.html
+   name="Piyush Pandey"
+   institution="IIT Bombay"
+   email="piyush.pandey@iitb.ac.in"
+   role="Finance Chairs"
+   site="https://www.som.iitb.ac.in/dr-piyush-pandey/"
+   picture="/assets/images/committee/Piyush-Pandey.jpg"
+%}
+
+<h2>Diversity & Inclusion Chairs</h2>
+{% include committee-member.html
+   name="Sriparna Saha"
+   institution="IIT Patna"
+   email="sriparna@iitp.ac.in"
+   role="Diversity & Inclusion Chairs"
+   site="https://www.iitp.ac.in/~sriparna/"
+   picture="/assets/images/committee/Sriparna-Saha.jpg"
+%}
+{% include committee-member.html
+   name="Sudeshna Sarkar"
+   institution="IIT Kharagpur"
+   email="sudeshna@cse.iitkgp.ac.in"
+   role="Diversity & Inclusion Chairs"
+   site="https://cse.iitkgp.ac.in/~sudeshna/"
+   picture="/assets/images/committee/Sudeshna-Sarkar.jpg"
+%}
+{% include committee-member.html
+   name="Tirthankar Ghosal"
+   institution="Oak Ridge National Laboratory"
+   email="ghosalt@ornl.gov"
+   role="Diversity & Inclusion Chairs"
+   site="https://www.ornl.gov/staff-profile/tirthankar-ghosal"
+   picture="/assets/images/committee/Tirthankar-Ghosal.jpg"
+%}
+
+<h2>Sponsorship Chairs</h2>
+{% include committee-member.html
+   name="Aditya Joshi"
+   institution="University of New South Wales, Sydney"
+   email="aditya.joshi@unsw.edu.au"
+   role="Sponsorship Chairs"
+   site="https://www.unsw.edu.au/staff/aditya-joshi"
+   picture="/assets/images/committee/Aditya-Joshi.jpg"
+%}
+{% include committee-member.html
+   name="Manmeet Singh Kapoor"
+   institution="Technocraft Centre for Applied Artificial Intelligence, IIT Bombay"
+   email="manmeetsinghkapoor27@gmail.com"
+   role="Sponsorship Chairs"
+   site="https://www.linkedin.com/in/manmeet-singh-kapoor/?originalSubdomain=uk"
+   picture="/assets/images/committee/Manmeet-Singh-Kapoor.jpg"
+%}
+{% include committee-member.html
+   name="Sudipta Kar"
+   institution="Oracle Health AI"
+   email="sudipta.kar.8080@gmail.com"
+   role="Sponsorship Chairs"
+   site="https://sudiptakar.info/"
+   picture="/assets/images/committee/Sudipta-Kar.jpg"
+%}
+
+<h2>Student Research Workshop (SRW) Chairs</h2>
+{% include committee-member.html
+   name="Daisuke Kawahara"
+   institution="Waseda University"
+   email="dkw@waseda.jp"
+   role="Student Research Workshop (SRW) Chairs"
+   site="https://w-rdb.waseda.jp/html/100001978_en.html"
+   picture="/assets/images/committee/Daisuke-Kawahara.jpg"
+%}
+{% include committee-member.html
+   name="Xiting Wang"
+   institution="Renmin University of China"
+   email="xitingwang@ruc.edu.cn"
+   role="Student Research Workshop (SRW) Chairs"
+   site="https://gsai.ruc.edu.cn/english/wangxt"
+   picture="/assets/images/committee/Xiting-Wang.jpg"
 %}
 
 <h2>Publicity Chairs</h2>
 {% include committee-member.html
-   name="Yash Kumar Lal"
-   institution="Stony Brook University"
-   email="ylal@cs.stonybrook.edu"
+   name="Raj Dabre"
+   institution="NICT Japan, IIT Madras, IIT Bombay"
+   email="prajdabre@gmail.com"
    role="Publicity Chairs"
-   site="https://ykl7.github.io"
-   picture="/assets/images/committee/Yash-Lal.jpg"
+   site="https://prajdabre.github.io/"
+   picture="/assets/images/committee/Daisuke-Kawahara.jpg"
 %}
 {% include committee-member.html
-   name="Aaron Mueller"
-   institution="Northeastern University; Technion"
-   email="aa.mueller@northeastern.edu"
+   name="Wenjie Wang"
+   institution="National University of Singapore"
+   email="wenjiewang96@gmail.com"
    role="Publicity Chairs"
-   site="https://aaronmueller.github.io"
-   picture="/assets/images/committee/Aaron-Mueller.jpg"
+   site="https://wenjiewwj.github.io/"
+   picture="/assets/images/committee/Wenjie-Wang.jpg"
 %}
 {% include committee-member.html
-   name="Dallas Card"
-   institution="University of Michigan"
-   email="dalc@umich.edu"
+   name="Sunny Manchanda"
+   institution="DYSL-AI"
+   email="manchanda.sunny@gmail.com"
    role="Publicity Chairs"
-   site="https://dallascard.github.io/"
-   picture="/assets/images/committee/Dallas-Card.jpg"
+   site="https://aclanthology.org/people/s/sunny-manchanda/"
+   picture="/assets/images/committee/Sunny-Manchanda.jpg"
 %}
 
-<h2>Student Volunteer Chairs</h2>
-
-<strong>Contact: </strong>emnlp2025-student-volunteer-chairs@googlegroups.com
-
+<h2>Registration Chairs</h2>
 {% include committee-member.html
-   name="Nedjma Ousidhoum"
-   institution="Cardiff University"
-   email="OusidhoumN@cardiff.ac.uk"
-   role="Student Volunteer Chairs"
-   site="https://nedjmaou.github.io"
-   picture="/assets/images/committee/Nedjma-Ousidhoum.jpg"
+   name="Gajanan Krishna Rane"
+   institution="IIT Bombay"
+   email="gkrane79@gmail.com"
+   role="Registration Chairs"
+   site="https://scholar.google.co.in/citations?user=y1lHbmMAAAAJ&hl=en"
+   picture="/assets/images/committee/Gajanan-Krishna-Rane.jpg"
 %}
 {% include committee-member.html
-   name="Anne Lauscher"
-   institution="University of Hamburg"
-   email="anne.lauscher@uni-hamburg.de"
-   role="Student Volunteer Chairs"
-   site="https://anne-lauscher.de"
-   picture="/assets/images/committee/Anne-Lauscher.jpg"
+   name="Md Shad Akhtar"
+   institution="IIIT Delhi"
+   email="shad.akhtar@iiitd.ac.in"
+   role="Registration Chairs"
+   site="https://www.iiitd.ac.in/shad"
+   picture="/assets/images/committee/Md-Shad-Akhtar.jpg"
 %}
 
-<h2>Diversity and Inclusion Chairs</h2>
+<h2>AACL Liaison</h2>
 {% include committee-member.html
-   name="Chenxi Whitehouse"
-   institution="Meta AI"
-   email="chenxwh@meta.com"
-   role="Diversity and Inclusion Chairs"
-   site="https://chenxwh.github.io/"
-   picture="/assets/images/committee/Chenxi-Whitehouse.jpg"
-%}
-
-{% include committee-member.html
-   name="Margot Mieskes"
-   institution="University of Applied Sciences Darmstadt"
-   email="margot.mieskes@h-da.de"
-   role="Diversity and Inclusion Chairs"
-   site="https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes"
-   picture="/assets/images/committee/Margot-Mieskes.jpg"
-%}
-
-{% include committee-member.html
-   name="Roy Ka-Wei Lee"
-   institution="Singapore University of Technology and Design"
-   email="roy_lee@sutd.edu.sg"
-   role="Diversity and Inclusion Chairs"
-   site="https://www.sutd.edu.sg/profile/roy-lee/"
-   picture="/assets/images/committee/Roy-Ka-Wei-Lee.jpg"
+   name="Maggie, Wenjie Li"
+   institution="The Hongkong Polytechnic University"
+   email="wenjie.li@polyu.edu.hk"
+   role="AACL Liaison"
+   site="https://www4.comp.polyu.edu.hk/~cswjli/"
+   picture="/assets/images/committee/Maggie-Wenjie-Li.jpg"
 %}
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
-   name="Marcelo Viridiano"
-   institution="Case Western Reserve University"
-   email="marcelo.viridiano@case.edu"
+   name="Roy Ka-Wei Lee"
+   institution="Singapore University of Technology and Design"
+   email="roy_lee@sutd.edu.sg"
    role="Website Chairs"
-   site="https://viridiano.com"
-   picture="/assets/images/committee/Marcelo-Viridiano.jpg"
+   site="https://www.roylee.sg/"
+   picture="/assets/images/committee/Roy-Ka-Wei-Lee.jpg"
 %}
 {% include committee-member.html
-   name="Haiyue Song"
-   institution="National Institute of<br>Information and Communications Technology"
-   email="haiyue.song@nict.go.jp"
+   name="Wenya Wang"
+   institution="Nanyang Technological University"
+   email="wangwy@ntu.edu.sg"
    role="Website Chairs"
-   site="https://shyyhs.github.io/"
-   picture="/assets/images/committee/Haiyue-Song.jpg"
+   site="https://personal.ntu.edu.sg/wangwy/"
+   picture="/assets/images/committee/Wenya-Wang.jpg"
+%}
+{% include committee-member.html
+   name="Ming Shan Hee"
+   institution="Singapore University of Technology and Design"
+   email="mingshan.hee@gmail.com"
+   role="Website Chairs"
+   site="https://www.mingshanhee.com"
+   picture="/assets/images/committee/Ming-Shan-Hee.jpg"
 %}
