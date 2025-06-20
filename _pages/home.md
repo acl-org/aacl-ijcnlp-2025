@@ -1,16 +1,16 @@
 ---
-title: "The 2025 Conference on Empirical Methods in Natural Language Processing"
+title: "International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/suzhou_city/emnlp_2025_background.jpg"
+  overlay_image: "/assets/images/mumbai/aacl_2025_background.jpg"
   #caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2025 Website Image.png</a> '
   caption: "Photo @ Wallpaper Flare"
-excerpt: "November 5 &ndash;9<br>Suzhou, China"
+excerpt: "December 20 &ndash;24<br>Mumbai, India"
 ---
 
 ## Welcome!
-EMNLP 2025 will be held in Suzhou, China from **November 5th** to **November 9th, 2025**.
+The 14th IJCNLP & 4th AACL will be held in Mumbai, India from **December 20th** to **December 24th, 2025**.
 
 ## News
 
@@ -29,15 +29,15 @@ EMNLP 2025 will be held in Suzhou, China from **November 5th** to **November 9th
 
 ## Important Dates
 
-ARR submission deadline (long & short papers) | May 19, 2025
+ARR submission deadline (long & short papers) | July 28, 2025
 Reviewer registration deadline for ALL authors | May 21, 2025
-Review submission deadline | June 18, 2025
-Author response and author-reviewer discussion | June 26 - July 2, 2025
-Meta-review deadline | July 15, 2025
-Commitment deadline | July 31, 2025
-Notification of acceptance (long & short papers) | August 20, 2025
-Camera-ready papers due (long & short) | September 19, 2025
-Main Conference (dates for Workshops/Tutorials TBD) | November 5-9, 2025
+Review submission deadline | August 27, 2025
+Author response and author-reviewer discussion | September 4 - 10, 2025
+Meta-review deadline | September 23, 2025
+Commitment deadline | October 10, 2025
+Notification of acceptance (long & short papers) | October 25, 2025
+Camera-ready papers due (long & short) | November 10, 2025
+Main Conference (dates for Workshops/Tutorials TBD) | December 20 - 24, 2025
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
 
