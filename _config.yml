@@ -17,9 +17,9 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EMNLP 2025"
+title                    : "AACL-IJCNLP 2025"
 title_separator          : "-"
-name                     : "emnlp"
+name                     : "aacl-ijcnlp"
 description              : "Official website for the 2025 Conference on Empirical Methods in Natural Language Processing"
 url                      : "https://github.com/FreedomIntelligence/FreedomIntelligence.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
