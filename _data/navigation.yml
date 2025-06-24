@@ -34,10 +34,12 @@ calls:
       #   url: /volunteers 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
+      - title: "Workshops"
+        url: /calls/workshops/
+      - title: "Tutorials"
+        url: /calls/tutorial/
       - title: "System Demonstration"
         url: /calls/demos/
-      - title: "Industry Track"
-        url: /calls/industry_track/
 
 
 committees:
