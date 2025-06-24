@@ -18,19 +18,14 @@ The 14th IJCNLP & 4th AACL will be held in Mumbai, India from **December 20th** 
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| May 7, 2025 | [Second call for papers](https://2025.emnlp.org/calls/main_conference_papers/) is updated!
-| May 5, 2025 | [Call for industry track papers](https://2025.emnlp.org/calls/industry_track) is out!
-| Apr. 23, 2025 | [Call for system demonstrations](https://2025.emnlp.org/calls/demos) is out!
-| Apr. 6, 2025 | [Organizing committee](https://2025.emnlp.org/organization/) is updated!
-| Mar. 3, 2025 | [Call for sponsors](https://2025.emnlp.org/sponsors/) is out!
-| Jan. 29, 2025 | [First call for papers](https://2025.emnlp.org/calls/main_conference_papers/) is out!
+| May 12, 2025 | [Call for tutorials](#) is now open. Submit your proposals.
 {: .news-table}
 
 
 ## Important Dates
 
 ARR submission deadline (long & short papers) | July 28, 2025
-Reviewer registration deadline for ALL authors | May 21, 2025
+Reviewer registration deadline for ALL authors | July 30, 2025
 Review submission deadline | August 27, 2025
 Author response and author-reviewer discussion | September 4 - 10, 2025
 Meta-review deadline | September 23, 2025
