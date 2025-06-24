@@ -37,7 +37,7 @@ calls:
       - title: "Workshops"
         url: /calls/workshops/
       - title: "Tutorials"
-        url: /calls/tutorial/
+        url: /calls/tutorials/
       - title: "System Demonstration"
         url: /calls/demos/
 
