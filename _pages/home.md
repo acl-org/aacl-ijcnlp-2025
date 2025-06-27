@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/mumbai/aacl_2025_background.jpg"
   #caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2025 Website Image.png</a> '
-  caption: "Photo @ Wallpaper Flare"
+  # caption: "Photo @ Wallpaper Flare"
 excerpt: "December 20 &ndash;24<br>Mumbai, India"
 ---
 
