@@ -7,11 +7,11 @@ main:
   - title: "Committees"
     url: /organization
 
-  - title: "Sponsors"
-    url: /sponsors/
+  # - title: "Sponsors"
+  #   url: /sponsors/
 
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
 
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
