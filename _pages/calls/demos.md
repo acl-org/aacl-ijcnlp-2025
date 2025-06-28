@@ -9,23 +9,28 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-The EMNLP 2025 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in natural language processing.
+## Overview
 
-Areas of interest include all topics related to theoretical and applied natural language processing, such as (but not limited to) the topics listed on the main conference website.
+IJCNLP-AACL 2025 invites proposals for system demonstrations showcasing innovative NLP systems, from research prototypes to production-ready solutions. Demonstrations should highlight technological advancements to an international audience of researchers and practitioners. The system demonstrations across all areas of NLP and computational linguistics, which includes (but not limited to)
+- *NLP Systems*: Natural language processing systems or system components
+- *Application Systems*: Application systems using language technology components
+- *Research Tools*: Software tools for natural language processing research
+- *Demo & Evaluations*: Software for demonstration or evaluation purposes
+- *Educational Tools*: Software supporting learning or education in NLP
+- *Data Visualization*: Tools for data visualization and annotation
+- *Model Inspection*: Tools for model inspection and analysis
+- *Development Tools*: Development tools and frameworks for NLP
 
-Submitted systems may be of the following types:
+In addition, the system demonstrations should exhibit the following characteristics:
+- **Open Source Priority**
+  - Emphasis is placed on systems that are publicly accessible as open-source or open-access solutions.
 
-* Natural language processing systems or system components  
-* Application systems using language technology components  
-* Software tools for natural language processing research  
-* Software for demonstration or evaluation  
-* Software supporting learning or education  
-* Tools for data visualization and annotation  
-* Tools for model inspection  
-* Development tools  
+- **Industrial Innovation**
+  - Showcasing industrial systems that demonstrate technological innovation in NLP applications.
 
-Papers describing accepted demonstrations will be published in a companion volume of the EMNLP 2025 conference proceedings. We require at least one of the authors to present a live demo during a demo session at EMLP 2025, with an accompanying poster.  
-**Please note:** Commercial sales and marketing activities are not appropriate in the Demonstrations Program and should be arranged as part of the Exhibit Program.
+**Best Demo Award**: IJCNLP-AACL 2025 will feature a *Best Demo Award*, which will be evaluated and conferred by a committee member based on their interactions with the demonstrations during the conference.
+
+**Important Note:** Commercial sales and marketing activities are not appropriate in the Demonstrations Program and should be arranged as part of the Exhibit Program.
 
 ## Important Dates
 
@@ -72,18 +77,21 @@ A paper submitted to accompany a demonstration should outline the design of the 
 - How is the system licensed?
 - How was the system evaluated? Were user studies/human evaluation experiments conducted?
 
-Note that this year, submissions that do not report any form of evaluation may be desk rejected.
+Note that submissions that do not report any form of evaluation may be desk rejected.
 
-Paper submission is electronic, using the OpenReview conference management system. Please submit your papers [here](https://openreview.net/group?id=EMNLP/2025/System_Demonstrations).
+Submissions can contain up to **6 pages** (longer submissions will be desk rejected), plus **2 pages** for references and informative appendices. Submissions must conform to the IJCNLP-AACL 2025 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in IJCNLP-AACL will be archival. Any papers that do not follow the official style guidelines and page limits will be desk rejected.
 
-Submissions can contain up to **6 pages** (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references and informative appendices. Accepted papers will be given one additional page of content to incorporate reviewers’ comments.
-
-Submissions must conform to the EMNLP 2025 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in EMNLP will be archival.  
-Any papers that do not follow the official style guidelines and page limits will be desk rejected.
+The template and submission guidelines are available [online](#). Use the provided template and submit through the [START system](#).
 
 **A Demonstration Video**
 
 A short (at most 2.5 minutes) screencast video demonstrating the system together with your paper submission. This screencast will be used to evaluate the paper, but won’t be published unless requested. If a screencast is not feasible, a video showcasing user interaction with the system may be used. Simple production is encouraged. Include the link in your paper (YouTube or similar), or submit the video as supplementary material in MPEG4 format.
+
+The content focus of the short screencast video should be on
+- **Demonstrating Key Feature**
+- **Showing System Workflow**
+- **Highlighting Unique Capabilities**
+- **Adding in Clear Video Narration**
 
 **Live Demo Website or Installable Package**
 
@@ -91,11 +99,11 @@ A link to a live demo website or a downloadable installation package is required
 
 ## Multiple Submission Policy
 
-We follow the Multiple Submission Policy of the EMNLP 2025 main conference. Submissions must not be under review or published elsewhere. Authors submitting multiple demo papers must ensure submissions do not overlap significantly (>25%) in content or results.
+We follow the Multiple Submission Policy of the IJCNLP-AACL 2025 main conference. Submissions must not be under review or published elsewhere. Authors submitting multiple demo papers must ensure submissions do not overlap significantly (>25%) in content or results.
 
 ## Reviewing Policy
 
-Reviewing is **single-blind**. Authors should include names, affiliations, and may cite their own work.
+Reviewing is **single-blind with no rebuttal**. Authors should include names, affiliations, and may cite their own work.
 
 ## Ethics Policy
 
@@ -107,4 +115,4 @@ Authors must adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethi
 - Peter Schulam, Amazon AGI  
 - Jörg Tiedemann, University of Helsinki  
 
-**Contact:** [emnlp25-demo-chairs@lists.ruhr-uni-bochum.de](mailto:emnlp25-demo-chairs@lists.ruhr-uni-bochum.de)
+For questions about system demonstrations submission and organization, email: [ijcnlp-aacl2025-demo-track@googlegroups.com](mailto:ijcnlp-aacl2025-demo-track@googlegroups.com)

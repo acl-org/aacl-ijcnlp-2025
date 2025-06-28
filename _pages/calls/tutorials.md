@@ -8,17 +8,13 @@ sidebar:
 
 ## Overview
 
-IJCNLP-AACL features comprehensive tutorials led by experts, covering both cutting-edge advances and foundational concepts in NLP and computational linguistics.
-
-## Important Dates
-
-## Call for Tutorial Proposals
 IJCNLP-AACL 2025 invites proposals for tutorials in all areas of natural language processing, computational linguistics, and related fields of interest to our communities. We especially encourage submissions from early-career researchers to share their expertise and contribute to knowledge dissemination.
 
-
-Tutorials will be held December 23, 2025 in Mumbai, India, following the main conference days. In-person format is preferred, with hybrid format allowed under special circumstances.
+Tutorials will be held December 23, 2025 in Mumbai, India, following the main conference days. In-person format is preferred, with hybrid format allowed under special circumstances. 
 
 *Important Note*: At least one organizer of accepted tutorials must be present in-person in Mumbai, India.
+
+## Important Dates
 
 ## Tutorial Topics
 
@@ -46,7 +42,7 @@ Tutorials will be held December 23, 2025 in Mumbai, India, following the main co
   - Open research questions
   - New research directions
 
-## Duration & Format
+## Tutorial Format & Duration
 IJCNLP-AACL adopt two tutorial formats
 
 **Half-Day Tutorial (Default)**
@@ -59,7 +55,7 @@ IJCNLP-AACL adopt two tutorial formats
 - Two coffee breaks (1 hour total)
 - Requires strong justification
 
-## Submission Requirements
+## Submission Guidelines
 Each tutorial proposal must contain the following sections for evaluation
 
 - **Title & Abstract**: Clear title and summary of topics, goals, target audience, and tutorial type
@@ -72,6 +68,8 @@ Each tutorial proposal must contain the following sections for evaluation
 - **Other Information**: Participation estimates, special equipment needs, and other aspects
 - **Ethics Statement**: Discuss ethical considerations related to tutorial topics
 
+**Submission Style & Portal**
+The template and submission guidelines are available [online](https://docs.google.com/document/d/1V3Zilcl5vfk0kvdhIaIM0H-EIrh0iGMQT0cnloqj5Qk/edit?tab=t.0). Use the provided template and submit through the [START system](https://softconf.com/aacl2025/tutorials/).
 
 ## Diversity & Evaluation
 We encourage diverse participation and evaluate proposals on multiple criterias
@@ -90,14 +88,11 @@ We encourage diverse participation and evaluate proposals on multiple criterias
 - Contribution to conference diversity
 - Educational value and practical applicability
 
-## Submission Link
-Template and submission guidelines are available [online](https://docs.google.com/document/d/1V3Zilcl5vfk0kvdhIaIM0H-EIrh0iGMQT0cnloqj5Qk/edit?tab=t.0). 
-
-Use the provided template and submit through the [START system](https://softconf.com/aacl2025/tutorials/). 
-
 ## Contact Information
 
 **Program Chairs:**
 
 - [Benjamin Heinzerling](https://bheinzerling.github.io/), RIKEN / Tohoku University
 - [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html), Academia Sinica
+
+For questions about tutorial proposals, submission guidelines, and tutorial organization, email: [aacl-ijcnlp25-tutorial_chairs@googlegroups.com](mailto:aacl-ijcnlp25-tutorial_chairs@googlegroups.com)
