@@ -23,7 +23,22 @@ Meta-review deadline | September 23, 2025
 Commitment deadline | October 10, 2025
 Notification of acceptance (long & short papers) | October 25, 2025
 Camera-ready papers due (long & short) | November 10, 2025
-Main Conference (dates for Workshops/Tutorials TBD) | December 20 - 24, 2025
+Main Conference | December 20 - 24, 2025
+
+<table style="width: 100%; font-size: .9em;">
+  <tr>
+      <td style="width: 50%;">Proposal Submission Due</td>
+      <td>August 14, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Notification of Acceptance</td>
+      <td>October 2, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Main Conference</td>
+      <td>December 20 - 24, 2025</br>Tutorials: December 23, 2025</td>
+  </tr>
+</table>
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
 

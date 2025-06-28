@@ -16,6 +16,21 @@ Tutorials will be held December 23, 2025 in Mumbai, India, following the main co
 
 ## Important Dates
 
+<table style="width: 100%; font-size: .9em;">
+  <tr>
+      <td style="width: 50%;">Proposal Submission Due</td>
+      <td>August 14, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Notification of Acceptance</td>
+      <td>October 2, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Main Conference</td>
+      <td>December 20 - 24, 2025</br>Tutorials: December 23, 2025</td>
+  </tr>
+</table>
+
 ## Tutorial Topics
 
 **Non-CL/Non-NLP Topics**

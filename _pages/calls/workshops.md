@@ -24,6 +24,34 @@ Workshops will be held in Mumbai, India. In-person format is preferred, with hyb
 ## Important Dates
 
 
+<table style="width: 100%; font-size: .9em;">
+  <tr>
+      <td style="width: 50%;">First Call for Proposals</td>
+      <td>March 12, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Submission Link Posted</td>
+      <td>March 17, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Second Call for Proposals</td>
+      <td>April 1, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Proposal Submission Due</td>
+      <td>April 15, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Notification of Acceptance</td>
+      <td>May 8, 2025</td>
+  </tr>
+  <tr>
+      <td style="width: 50%;">Main Conference - Workshops</td>
+      <td>December 20 - 24, 2025</br>Workshops: December 23 - 24, 2025</td>
+  </tr>
+</table>
+
+
 ## Submission Guidelines
 Each submission should contain a maximum 4 pages: max 2 pages for main proposal + max 2 pages for workshop organizers information.
 
