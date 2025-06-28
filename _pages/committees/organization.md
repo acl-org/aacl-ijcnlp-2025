@@ -45,7 +45,7 @@ sidebar:
 
 <h2>Local Organizing Chairs</h2>
 {% include committee-member.html
-   name="Pushpak Bhattacharya"
+   name="Pushpak Bhattacharyya"
    institution="IIT Bombay"
    email="pb@cse.iitb.ac.in"
    role="Local Organizing Chairs"
