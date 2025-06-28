@@ -44,7 +44,7 @@ Organizer Information (2 pages)
 - Unlimited space for references
 
 ## Diversity & Evaluation
-We encourage diverse participation and evaluate proposals on multiple criteria
+We encourage diverse participation and evaluate proposals on multiple criterias
 
 **Diversity & Inclusion**
 
@@ -57,7 +57,7 @@ We encourage diverse participation and evaluate proposals on multiple criteria
 
 - Originality and impact
 - Expected participant interest level
-- Quality of organizing team
+- Quality and expertise of organizing team
 - Contribution to conference diversity
 
 
