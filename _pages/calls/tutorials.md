@@ -27,7 +27,11 @@ Tutorials will be held December 23, 2025 in Mumbai, India, following the main co
   </tr>
   <tr>
       <td style="width: 50%;">Main Conference</td>
-      <td>December 20 - 24, 2025</br>Tutorials: December 23, 2025</td>
+      <td>
+        <b>Main</b>: December 20 - 24, 2025
+        <br/>
+        <b>Tutorials</b>: December 23, 2025
+      </td>
   </tr>
 </table>
 

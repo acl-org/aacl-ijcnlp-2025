@@ -47,7 +47,12 @@ Workshops will be held in Mumbai, India. In-person format is preferred, with hyb
   </tr>
   <tr>
       <td style="width: 50%;">Main Conference - Workshops</td>
-      <td>December 20 - 24, 2025</br>Workshops: December 23 - 24, 2025</td>
+      <td>
+        <b>Main</b>: December 20 - 24, 2025
+        <br/>
+        <b>Workshops</b>: December 23 - 24, 2025
+      </td>
+      
   </tr>
 </table>
 
