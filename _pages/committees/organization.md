@@ -316,7 +316,7 @@ sidebar:
    email="prajdabre@gmail.com"
    role="Publicity Chairs"
    site="https://prajdabre.github.io/"
-   picture="/assets/images/committee/Daisuke-Kawahara.jpg"
+   picture="/assets/images/committee/Raj-Dabre.jpg"
 %}
 {% include committee-member.html
    name="Wenjie Wang"
