@@ -228,7 +228,7 @@ sidebar:
    email="dipti@iiit.ac.in"
    role="Finance Chairs"
    site="https://www.iiit.ac.in/faculty/dipti-m-sharma/"
-   picture="/assets/images/committee/Dipti–Misra-Sharma.jpg"
+   picture="/assets/images/committee/Dipti-Misra-Sharma.jpg"
 %}
 {% include committee-member.html
    name="Piyush Pandey"
