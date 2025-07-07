@@ -17,9 +17,9 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AACL-IJCNLP 2025"
+title                    : "IJCNLP-AACL 2025"
 title_separator          : "-"
-name                     : "aacl-ijcnlp"
+name                     : "ijcnlp-aacl"
 description              : "Official website for the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025"
 url                      : "https://github.com/FreedomIntelligence/FreedomIntelligence.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
