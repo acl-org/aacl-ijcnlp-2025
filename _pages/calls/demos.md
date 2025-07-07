@@ -37,23 +37,27 @@ In addition, the system demonstrations should exhibit the following characterist
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Paper submission deadline</td>
-      <td>Friday</td>
-      <td>July 4, 2025</td>
+      <td>Monday</td>
+      <td>September 15, 2025</td>
   </tr>
   <tr>
       <td>Notification of acceptance</td>
       <td>Tuesday</td>
-      <td>September 9, 2025</td>
+      <td>November 10, 2025</td>
   </tr>
   <tr>
       <td>Camera ready submission</td>
       <td>Friday</td>
-      <td>September 19, 2025</td>
+      <td>November 24, 2025</td>
   </tr>
   <tr>
       <td>Main Conference</td>
       <td></td>
-      <td>November 5–9, 2025</td>
+      <td>
+        November 20 - 24, 2025
+        <br/>
+        <i>Live Demonstrations</i>
+      </td>
   </tr>
 </table>
 
@@ -111,8 +115,7 @@ Authors must adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethi
 
 ## Demonstration Co-chairs
 
-- Ivan Habernal, RC Trust; Ruhr University Bochum  
-- Peter Schulam, Amazon AGI  
-- Jörg Tiedemann, University of Helsinki  
+- [Lizhen Qu](lizhen.qu@monash.edu), Monash University
+- [Sowmya Vajjala](sowmya.vajjala@nrc-cnrc.gc.ca), National Research Council Canada
 
 For questions about system demonstrations submission and organization, email: [ijcnlp-aacl2025-demo-track@googlegroups.com](mailto:ijcnlp-aacl2025-demo-track@googlegroups.com)
