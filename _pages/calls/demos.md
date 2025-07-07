@@ -115,7 +115,7 @@ Authors must adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethi
 
 ## Demonstration Co-chairs
 
-- [Lizhen Qu](lizhen.qu@monash.edu), Monash University
-- [Sowmya Vajjala](sowmya.vajjala@nrc-cnrc.gc.ca), National Research Council Canada
+- [Ayu Purwarianti](ayu@informatika.org), Bandung Institute of Technology
+- [Xuebo Liu](liuxuebo@hit.edu.cn), Harbin Institute of Technology, Shenzhen
 
 For questions about system demonstrations submission and organization, email: [ijcnlp-aacl2025-demo-track@googlegroups.com](mailto:ijcnlp-aacl2025-demo-track@googlegroups.com)
