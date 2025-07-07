@@ -293,6 +293,33 @@ sidebar:
 
 <h2>Student Research Workshop (SRW) Chairs</h2>
 {% include committee-member.html
+   name="Shuichiro Shimizu"
+   institution="Kyoto University"
+   email="sshimizu@nlp.ist.i.kyoto-u.ac.jp"
+   role="Student Research Workshop (SRW) Chairs"
+   site="https://cromz22.github.io"
+   picture="/assets/images/committee/Shuichiro-Shimizu.jpg"
+%}
+{% include committee-member.html
+   name="Santosh T.Y.S.S"
+   institution="Technical University of Munich"
+   email="santoshtyss@gmail.com"
+   role="Student Research Workshop (SRW) Chairs"
+   site="https://scholar.google.com/citations?user=aYytWsAAAAAJ"
+   picture="/assets/images/committee/Santosh-TYSS.jpg"
+%}
+{% include committee-member.html
+   name="Yifan Gong"
+   institution="Renmin University of China"
+   email="yifangong@ruc.edu.cn"
+   role="Student Research Workshop (SRW) Chairs"
+   site="https://github.com/paraGONG"
+   picture="/assets/images/committee/Yifan-Gong.jpg"
+%}
+
+
+<h2>Student Research Workshop (SRW) Chairs: Faculty Advisors</h2>
+{% include committee-member.html
    name="Daisuke Kawahara"
    institution="Waseda University"
    email="dkw@waseda.jp"
@@ -387,4 +414,12 @@ sidebar:
    role="Website Chairs"
    site="https://www.mingshanhee.com"
    picture="/assets/images/committee/Ming-Shan-Hee.jpg"
+%}
+
+{% include committee-member.html
+   name="Raj Saroj"
+   institution="IIT Bombay"
+   email="raj.saroj@iitb.ac.in"
+   role="Website Chairs"
+   picture="/assets/images/committee/Raj-Saroj.jpg"
 %}
