@@ -40,6 +40,8 @@ calls:
         url: /calls/tutorials/
       - title: "System Demonstration"
         url: /calls/demos/
+      - title: "Student Research Workshop"
+        url: /calls/srw/
 
 
 committees:
