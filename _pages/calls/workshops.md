@@ -101,9 +101,9 @@ We encourage diverse participation and evaluate proposals on multiple criterias
 
 ## Contact Information
 
-**Program Chairs:**
+**Workshop Chairs:**
 
 - [Sowmya Vajjala](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/sowmya-vajjala), National Research Council Canada
 - [Lizhen Qu](https://research.monash.edu/en/persons/lizhen-qu), Monash University
 
-For questions about workshop proposals and organization, email: [aacl-ijcnlp25-tutorial_chairs@googlegroups.com](mailto:aacl-ijcnlp25-tutorial_chairs@googlegroups.com)
+For questions about workshop proposals and organization, email: [aacl-ijcnlp25-tutorial_chairs@googlegroups.com](mailto:aacl-ijcnlp25-workshop_chairs@googlegroups.com)
