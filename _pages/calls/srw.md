@@ -103,8 +103,6 @@ There are two routes for paper submission:
 - **Direct Submission**: Papers should be submitted through [Direct Submission Link](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/SRW). Each paper will receive a minimum of three reviews. The review process will follow the [ARR review policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation).
 - **ACL Rolling Review (ARR) Papers**: Papers which have already been reviewed through the ARR system can be committed to the SRW. These papers will not be re-reviewed. Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews. ARR papers should be committed through [ARR Commitment Link](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/SRW_ARR_Commitment). When making a new submission, you will be able to specify the details of the ARR paper that you want to commit, including the OpenReview ID of your paper.
 
-[Pre-submission mentorship link](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/SRW_Mentorship)
-
 
 ## Pre-Submission Mentorship Program
 The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.
